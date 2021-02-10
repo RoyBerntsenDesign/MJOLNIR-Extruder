@@ -1,2 +1,2 @@
-# Alpha-LX-31
-Direct Drive Dual Gear Lightweight Extruder
+# MJØLNIR LWX
+Direct Drive Dual Gear Light Weight eXtruder
