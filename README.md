@@ -6,6 +6,8 @@ If you want to support the development - consider becoming a patreon or supporti
 https://www.buymeacoffee.com/pro3d
 https://www.patreon.com/pro3d
 
+Assembly instructions: https://youtu.be/Zbhv6hjX4qc
+
 Mjølnir NEMA 14 motor: https://s.click.aliexpress.com/e/_9jtVG0
 Mjølnir Gear set: https://s.click.aliexpress.com/e/_9jXj9w
 
