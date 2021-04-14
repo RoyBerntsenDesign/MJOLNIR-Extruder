@@ -7,7 +7,7 @@ M51 https://a360.co/3td5ZUI
 Assembly instructions: https://youtu.be/Zbhv6hjX4qc
 
 Mjølnir 31 NEMA 14 motor: https://s.click.aliexpress.com/e/_9jtVG0
-Mjølnir 51 NEMA1 4 motor: shorturl.at/hijwS 
+Mjølnir 51 NEMA1 4 motor: http://tiny.cc/dc0wtz
 Mjølnir 31/51 Gear set: https://s.click.aliexpress.com/e/_9jXj9w
 
 Triquetra Coldend Fan: https://s.click.aliexpress.com/e/_AqCZdw
