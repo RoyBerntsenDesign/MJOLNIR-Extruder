@@ -1,4 +1,5 @@
 # Mjølnir 5:1
+Currently taken down due to unexpected behaviour
 
 NB! This version has a 3mm thick base. This means you will have to grind the 5mm shaft holding the 50T spur gear.
 
