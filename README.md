@@ -1,4 +1,4 @@
-# MJØLNIR LWX
+# MJØLNIR Extruder
 Direct Drive Dual Gear Light Weight eXtruder
 3D Model: 
 M31 https://a360.co/35KKFMy
